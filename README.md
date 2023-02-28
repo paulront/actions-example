@@ -1,3 +1,4 @@
+[![Build and Test React 18 App](https://github.com/paulront/actions-example/actions/workflows/ci.yml/badge.svg)](https://github.com/paulront/actions-example/actions/workflows/ci.yml)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
